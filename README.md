@@ -1,1 +1,1 @@
-To fix this bug in golang, see https://github.com/bddjr/hlfhr
+To fix this bug in **golang**, see https://github.com/bddjr/hlfhr
