@@ -1,1 +1,1 @@
-# Client-sent-an-HTTP-request-to-an-HTTPS-server.
+To fix this bug in golang, see https://github.com/bddjr/hlfhr
